@@ -1,0 +1,14 @@
+Weather,Road_condition,Time_of_day,Severity
+Rainy,Wet,Day,10
+Sun,Dry,Day,0
+Cloudy,Dry,Day,5
+Rainy,Wet,Night,4
+Sun,Dry,Day,3
+Windy,Wet,Night,6
+Rainy,Wet,Night,1
+Sun,Dry,Day,8
+Rainy,Slippery,Night,7
+Cloudy,Dusty,Day,12
+Windy,Dry,Night,7
+Windy,Dry,Day,2
+Cloudy,Wet,Night,9
